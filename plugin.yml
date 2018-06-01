@@ -1,0 +1,8 @@
+name: PluginTaskPolyfill
+main: dktapps\PluginTaskPolyfill\Main
+version: 0.0.1
+api: 3.0.0-ALPHA12
+load: POSTWORLD
+author: dktapps
+description: PluginTask polyfill demo
+website: https://github.com/dktapps/PluginTaskPolyfill
