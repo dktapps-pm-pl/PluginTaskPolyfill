@@ -7,4 +7,4 @@ Also, the `PluginTask` class was never very useful to begin with because you cou
 However, here's the proof that it can be done, if you want to do it for some reason.
 
 ## License
-Public domain. I don't care what you do with this code, mutilate it, misuse it, sell it or whatever you please.
+Public domain. I don't care what you do with this code, copy, modify, redistribute, mutilate, misuse, sell or whatever you please.
